@@ -5,10 +5,12 @@ export const SvgXml: React.FC<{ xml: string, width?: number, height?: number }> 
     width,
     height
 }) => {
-    return <span style={{
-        width,
-        height
+    return <div style={{
+        display: 'flex',
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center'
     }} dangerouslySetInnerHTML={{
         __html: xml
-    }}></span>
+    }}></div>
 }

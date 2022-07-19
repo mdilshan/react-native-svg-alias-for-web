@@ -23,7 +23,9 @@
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-native-svg-alias-for-web": "https://github.com/mdilshan/react-native-svg-alias-for-web.git"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://mdilshan@bitbucket.org/smartlife-pro/smartlife-pro2-logic-state.git"
