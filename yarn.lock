@@ -1041,10 +1041,6 @@ quick-lru@^4.0.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
-"react-native-svg-alias-for-web@https://github.com/mdilshan/react-native-svg-alias-for-web.git":
-  version "1.0.2"
-  resolved "https://github.com/mdilshan/react-native-svg-alias-for-web.git#580e7f09d1eb9d98f34bc81999961de879bd5a4a"
-
 read-pkg-up@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-3.0.0.tgz#3ed496685dba0f8fe118d0691dc51f4a1ff96f07"
