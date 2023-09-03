@@ -24,10 +24,5 @@
     "typescript": "^4.5.2"
   },
   "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://mdilshan@bitbucket.org/smartlife-pro/smartlife-pro2-logic-state.git"
-  },
-  "homepage": "https://bitbucket.org/smartlife-pro/smartlife-pro2-logic-state#readme",
   "description": ""
 }
